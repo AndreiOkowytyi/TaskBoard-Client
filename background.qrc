@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background/registration_form_.jpg</file>
+        <file>icons/cross_a_.jpg</file>
+        <file>icons/cross_p_.jpg</file>
+        <file>icons/message_a_.jpg</file>
+        <file>icons/message_p_.jpg</file>
+        <file>icons/message_team_a_.jpg</file>
+        <file>icons/message_team_a_p_.jpg</file>
+        <file>icons/message_team_not_a_.jpg</file>
+        <file>icons/message_team_not_p_.jpg</file>
+        <file>icons/message_team_p_.jpg</file>
+        <file>icons/setting_account_a_.jpg</file>
+        <file>icons/setting_account_p_.jpg</file>
+        <file>icons/statistics_a_.jpg</file>
+        <file>icons/statistics_p_.jpg</file>
+        <file>icons/statistics_team_.jpg</file>
+        <file>icons/tasks_a_.jpg</file>
+        <file>icons/tasks_p_.jpg</file>
+        <file>icons/team_a_.jpg</file>
+        <file>icons/team_p_.jpg</file>
+    </qresource>
+</RCC>
